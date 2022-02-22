@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+button{
+  width: 70px;
+  height: 40px;
+  
+  
+}
+.btn1{
+  background-color: black;
+  color: greenyellow;
+  border-radius: 12px;
+}
+.btn2{
+  background-color: black;
+  color: rgb(248, 28, 8);
+  border-radius: 12px;
+}
